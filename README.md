@@ -31,6 +31,7 @@ Educative.io was founded by Fahim ul Haq (Co-Founder & CEO) and Naeem ul Haq (Co
 💡 In short: Educative.io saves time, removes setup headaches, and helps you gain job-relevant coding skills faster through practical, hands-on learning.
 
 
+
 ## Educative.io Pricing (2025)
 
 * **Free Plan** – Limited access to free courses.
@@ -154,5 +155,19 @@ Yes, you can cancel your subscription at any time. If you cancel before the next
 ### **6. Is Educative.io worth the money?**
 If you’re serious about leveling up your tech skills, preparing for coding interviews, or advancing your career, then **yes, Educative.io is worth it**. The platform pays for itself by saving time and helping you land better job opportunities.
 
+<a href="https://educative.pxf.io/NkLn9N" target="_blank" style="
+  display:inline-block;
+  padding:12px 24px;
+  font-size:16px;
+  font-weight:bold;
+  color:#ffffff;
+  background-color:#0070f3;
+  text-align:center;
+  text-decoration:none;
+  border-radius:8px;
+  box-shadow:0px 4px 6px rgba(0,0,0,0.2);
+  transition: all 0.3s ease;">
+  Click here to check out Educative.io at a discount 
+</a>
 
 
