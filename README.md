@@ -30,6 +30,7 @@ Educative.io was founded by Fahim ul Haq (Co-Founder & CEO) and Naeem ul Haq (Co
 
 💡 In short: Educative.io saves time, removes setup headaches, and helps you gain job-relevant coding skills faster through practical, hands-on learning.
 
+
 ## Educative.io Pricing (2025)
 
 * **Free Plan** – Limited access to free courses.
