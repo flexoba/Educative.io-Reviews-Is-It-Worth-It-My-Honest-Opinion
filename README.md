@@ -3,6 +3,7 @@
 Complete Educative.io review and analysis: course quality, pricing, pros/cons, alternatives comparison. Honest insights for developers considering this interactive coding education platform in 2025.
 
 ## What is Educative.io
+<img width="903" height="595" alt="Image" src="https://github.com/user-attachments/assets/33a2db28-b1ec-42ae-9277-5bb11fe4d092" />
 Educative.io is an online learning platform for developers that teaches coding and tech skills through interactive, text-based courses instead of videos. Learners read concise lessons, write and run code directly in the browser, and get instant feedback—no setup required.
 
 It offers hundreds of courses and learning paths covering programming languages, algorithms, system design, cloud computing, AI/ML, DevOps, and interview preparation (including the popular Grokking series). Designed for both individuals and teams, Educative.io is ideal for anyone who prefers learning by doing over passive watching.
