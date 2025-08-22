@@ -8,39 +8,216 @@ Educative.io is an online learning platform for developers that teaches coding a
 
 It offers hundreds of courses and learning paths covering programming languages, algorithms, system design, cloud computing, AI/ML, DevOps, and interview preparation (including the popular Grokking series). Designed for both individuals and teams, Educative.io is ideal for anyone who prefers learning by doing over passive watching.
 
+<a href="https://educative.pxf.io/NkLn9N" target="_blank" style="
+  display:inline-block;
+  padding:12px 24px;
+  font-size:16px;
+  font-weight:bold;
+  color:#ffffff;
+  background-color:#0070f3;
+  text-align:center;
+  text-decoration:none;
+  border-radius:8px;
+  box-shadow:0px 4px 6px rgba(0,0,0,0.2);
+  transition: all 0.3s ease;">
+  Click here for educative.io 72% discount now 
+</a>
+
 ## Who owns Edicative.io?
+<img width="1200" height="632" alt="image" src="https://github.com/user-attachments/assets/c1e4044f-4bb2-4ba4-ac38-7229b116c4fd" />
+
 Educative.io was founded by Fahim ul Haq (Co-Founder & CEO) and Naeem ul Haq (Co-Founder & CTO). It was launched in Seattle in 2015 and delivers interactive, text-based developer courses with in-browser coding — no video lessons or setup required
 
 ## What are the Benefits of Educative.io ? 
 
-1. Learn by Doing – Interactive, text-based lessons let you code directly in the browser with instant feedback.
+**1. Learn by Doing** – Interactive, text-based lessons let you code directly in the browser with instant feedback.
 
-2. No Setup Needed – Run code without installing compilers, IDEs, or tools.
+**2. No Setup Needed** – Run code without installing compilers, IDEs, or tools.
 
-3. Time-Efficient Learning – Text format lets you learn at your own pace and skim, unlike long videos.
+**3. Time-Efficient Learning** – Text format lets you learn at your own pace and skim, unlike long videos.
 
-4. Wide Range of Topics – Covers programming languages, algorithms, system design, cloud, DevOps, AI/ML, and interview prep.
+**4. Wide Range of Topics** – Covers programming languages, algorithms, system design, cloud, DevOps, AI/ML, and interview prep.
 
-5. Structured Learning Paths – Includes guided tracks like Grokking the System Design Interview.
+**5. Structured Learning Paths**– Includes guided tracks like Grokking the System Design Interview.
 
-6. Team Training – Offers plans for companies to upskill employees.
+**6. Team Training** – Offers plans for companies to upskill employees.
 
-7. Real-World Relevance – Content created by industry experts and senior engineers.
+**7. Real-World Relevance** – Content created by industry experts and senior engineers.
 
-8. Flexible Access – Works on desktop and mobile, so you can learn anywhere.
+**8. Flexible Access** – Works on desktop and mobile, so you can learn anywhere.
 
 💡 In short: Educative.io saves time, removes setup headaches, and helps you gain job-relevant coding skills faster through practical, hands-on learning.
 
+<a href="https://educative.pxf.io/NkLn9N" target="_blank" style="
+  display:inline-block;
+  padding:12px 24px;
+  font-size:16px;
+  font-weight:bold;
+  color:#ffffff;
+  background-color:#0070f3;
+  text-align:center;
+  text-decoration:none;
+  border-radius:8px;
+  box-shadow:0px 4px 6px rgba(0,0,0,0.2);
+  transition: all 0.3s ease;">
+  Click here for educative.io 72% discount now 
+</a>
 
 
 ## Educative.io Pricing (2025)
+under pricing there are 3 major subscription model, ranging from monthly to yearly and 2 years plans, i would always advise anyone to always start with the year plan since it is cheaper and more economical and saves you from monthly debit, just one off payment and you are good to go anytime you are interested
 
 * **Free Plan** – Limited access to free courses.
+  yearly plans:
+  these are best for those that are preparing for interviews, they really help you in getting a job
+### Premium 
+<img width="689" height="513" alt="Image" src="https://github.com/user-attachments/assets/3a7193cc-b3b4-4b17-9251-70b570c18635" />
+
+With this plan you are getting
+
+**everything in standard**
+
+* 900+ hands-on courses
+* Completion certificates
+* AI-powered learning
+* The Educative Newsletter
+  
+**plus**
+
+* 310+ real-world projects
+* Personalized Interview Prep
+* 3 AI Mock Interviews per month
+* Personalized Paths
+instead of the Standard, you can always chose this, since it has more.
+
+<a href="https://educative.pxf.io/NkLn9N" target="_blank" style="
+  display:inline-block;
+  padding:12px 24px;
+  font-size:16px;
+  font-weight:bold;
+  color:#ffffff;
+  background-color:#0070f3;
+  text-align:center;
+  text-decoration:none;
+  border-radius:8px;
+  box-shadow:0px 4px 6px rgba(0,0,0,0.2);
+  transition: all 0.3s ease;">
+  Click here for educative.io 72% discount now 
+</a>
+
+### Standard
+<img width="559" height="509" alt="image" src="https://github.com/user-attachments/assets/01b2468d-0b5a-4c51-b54c-24013aaa76e2" />
+
+With this plan you are getting 
+
+* 900+ hands-on courses
+* Completion certificates
+* AI-powered learning
+* The Educative Newsletter
+
+### Premium Plus 
+ <img width="574" height="512" alt="image" src="https://github.com/user-attachments/assets/ffdd65aa-9334-4fa5-a3f5-6aa376e81a71" />
+
+With this Plan you are getting 
+ **everything in Premium**
+
+* 900+ hands-on courses
+* Completion certificates
+* AI-powered learning
+* The Educative Newsletter
+* 310+ real-world projects
+* Personalized Interview Prep
+* 3 AI Mock Interviews per month
+* Personalized Paths
+
+**Plus**
+* 250+ AWS Cloud Labs
+* 7 AI Mock Interviews per month
+
 * **Monthly Subscription** – \$59/month, full access to all courses and learning paths.
+  
+
+ ## 🚀 Educative.io Subscription Plans — Which One’s Right for You?
+
+| Plan Type        | Monthly (Pay‑as‑you‑go) | Annual (Billed Upfront) | Effective Monthly | Key Extras | Recommendation |
+|------------------|------------------------|-------------------------|-------------------|------------|----------------|
+| **Standard**     | N/A*                   | $199.92/year            | $16.66            | Core course library | Good for casual learners |
+| **Premium**      | $24.99                 | $299/year               | $24.92            | + Projects + Personalized Learning Plans | For serious upskillers |
+| **Premium Plus** | N/A*                   | $499/year               | $41.58            | **All Premium features + CloudLabs** | 🏆 **Best Value for Career Growth** |
+
+> \*Standard and Premium Plus are only offered as annual or multi‑year plans.  
+> Prices in USD — may change with promotions.  
+> Annual “Effective Monthly” = annual price ÷ 12 months.
+
+---
+
+### 💡 Why Premium Plus?
+- **Hands‑on CloudLabs** — practice in real dev environments without setup hassles.  
+- **Future‑proof skills** — access advanced, in‑demand tech stacks.  
+- **One‑stop learning** — no need for extra tools or platforms.  
+
+> If you’re serious about landing top‑tier roles or accelerating your dev career, Premium Plus pays for itself in opportunities.
+
+<a href="https://educative.pxf.io/NkLn9N" target="_blank" style="
+  display:inline-block;
+  padding:12px 24px;
+  font-size:16px;
+  font-weight:bold;
+  color:#ffffff;
+  background-color:#0070f3;
+  text-align:center;
+  text-decoration:none;
+  border-radius:8px;
+  box-shadow:0px 4px 6px rgba(0,0,0,0.2);
+  transition: all 0.3s ease;">
+  Click here for educative.io 72% discount now 
+</a>
+
+
 * **Annual Subscription** – \$16.66/month (billed \$199 annually), includes unlimited course access, projects, and certificates.
 * **Team Plan** – Custom pricing for organizations, with team analytics and management tools.
 
 👉 Best value: The **annual plan** saves you 72% compared to monthly billing.
+
+<a href="https://educative.pxf.io/NkLn9N" target="_blank" style="
+  display:inline-block;
+  padding:12px 24px;
+  font-size:16px;
+  font-weight:bold;
+  color:#ffffff;
+  background-color:#0070f3;
+  text-align:center;
+  text-decoration:none;
+  border-radius:8px;
+  box-shadow:0px 4px 6px rgba(0,0,0,0.2);
+  transition: all 0.3s ease;">
+  Click here for 72% discount now 
+</a>
+
+## 🚀 Why the 2‑Year Premium Plus Plan is the Smartest Move
+
+| Plan Type            | Duration | Total Price* | Effective Monthly | Key Extras |
+|----------------------|----------|--------------|-------------------|------------|
+| **Premium Plus**     | 24 months| *Varies with promos* | From ~$33–$42 | All Premium features + **CloudLabs** |
+
+🏆 **Best for Ambitious Developers** — Lock in **2 full years** of unlimited learning, hands‑on cloud practice, and career‑accelerating projects.
+
+---
+
+### 💡 Why Go Big?
+- **Massive Savings** — 2‑year deals often slash 30–70% off the regular rate.  
+- **Price Lock** — Avoid future price hikes for the entire term.  
+- **CloudLabs Access** — Practice in real cloud environments without extra setup or cost.  
+- **Career Momentum** — Enough runway to master multiple in‑demand stacks (think DevOps, AI, System Design).  
+
+---
+
+> *Prices in USD. Check [Educative’s Subscription FAQ](https://educative.pxf.io/NkLn9N) for the latest rates and promotions.*
+
+---
+
+🔥 **Pro Tip:** If you’re serious about breaking into senior roles or landing high‑paying offers, the 2‑Year Premium Plus plan pays for itself in opportunities — and costs less per month than most streaming services.
+
 
 ## Educative.io Student Discount 
 Educative.io does not usually offer a traditional student discount like some platforms do, but the good news is that students can still save money on their subscription. Instead of entering a coupon manually, you can use this Educative.io discount link to get an automatic discount at checkout when registering. This way, you don’t need to verify student status or apply for a special code—just click the link and your savings are applied instantly.
@@ -83,6 +260,21 @@ Educative.io does not usually offer a traditional student discount like some pla
 
 ## Is Educative.io Worth it?
 **Educative.io is worth it** if you want fast, hands-on coding practice, top-tier interview prep like the *Grokking* series, and unlimited access to hundreds of developer courses. It’s best for self-driven learners who prefer interactive text over videos, but may not suit beginners or those sensitive to subscription costs.
+
+<a href="https://educative.pxf.io/NkLn9N" target="_blank" style="
+  display:inline-block;
+  padding:12px 24px;
+  font-size:16px;
+  font-weight:bold;
+  color:#ffffff;
+  background-color:#0070f3;
+  text-align:center;
+  text-decoration:none;
+  border-radius:8px;
+  box-shadow:0px 4px 6px rgba(0,0,0,0.2);
+  transition: all 0.3s ease;">
+  Click here for educative.io 72% discount now 
+</a>
 
 ## grokking the system design interview educative.io
 **Grokking the System Design Interview** on Educative.io is one of the platform’s most popular courses, designed to help software engineers prepare for **system design interviews** at top tech companies like FAANG.
