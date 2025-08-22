@@ -348,6 +348,7 @@ Yes, you can cancel your subscription at any time. If you cancel before the next
 ### **6. Is Educative.io worth the money?**
 If you’re serious about leveling up your tech skills, preparing for coding interviews, or advancing your career, then **yes, Educative.io is worth it**. The platform pays for itself by saving time and helping you land better job opportunities.
 
+
 <a href="https://educative.pxf.io/NkLn9N" target="_blank" style="
   display:inline-block;
   padding:12px 24px;
@@ -362,5 +363,8 @@ If you’re serious about leveling up your tech skills, preparing for coding int
   transition: all 0.3s ease;">
   Click here to check out Educative.io at a discount 
 </a>
+
+<span style="font-family: helvetica, arial, sans-serif;"><a href="https://educative.pxf.io/NkLn9N"><img class="aligncenter loaded" src="https://i.imgur.com/XSo2dvH.png" data-lazy="true" /></a></span>
+
 
 
